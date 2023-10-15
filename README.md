@@ -1,4 +1,11 @@
-# Swords of Iron initiaves board
+<h1>Swords of Iron board</h1>
+
+- [Missing/Kidnapped](#missingkidnapped)
+- [Publicity](#publicity)
+- [Donations](#donations)
+- [Index websites](#index-websites)
+- [Unsorted](#unsorted)
+
 
 # Missing/Kidnapped
 
