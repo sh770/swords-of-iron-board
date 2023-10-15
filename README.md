@@ -50,7 +50,7 @@
 
 # Equipment
 
-1. https://www.israeltechguard.org/carpentry/ - מיזם לפתרון נעילמת דלת ממ"ד מבפנים (IsraelTechGuard)
+1. https://www.israeltechguard.org/carpentry/ - מיזם לפתרון נעילת דלת ממ"ד מבפנים (IsraelTechGuard)
 
 # Unsorted
 
