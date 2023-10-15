@@ -10,6 +10,7 @@
 - [Index websites](#index-websites)
 - [Rides](#rides)
 - [Organizations](#organizations)
+- [Equipment](#equiqment)
 - [Unsorted](#unsorted)
 
 
@@ -46,6 +47,10 @@
 # Organizations
 
 1. https://www.israeltechguard.org/ - הייטקטיסטים למען חרבות ברזל
+
+# Equipment
+
+1. https://www.israeltechguard.org/carpentry/ - מיזם לפתרון נעילמת דלת ממ"ד מבפנים (IsraelTechGuard)
 
 # Unsorted
 
