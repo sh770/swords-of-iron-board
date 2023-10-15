@@ -1,12 +1,5 @@
 # Swords of Iron initiaves board
 
-
-# Donations
-
-1. https://safedonate.org.il/
-1. https://www.10bis.co.il/next/restaurants/menu/delivery/40885/%D7%9E%D7%97%D7%96%D7%A7%D7%99%D7%9D-%D7%95%D7%9E%D7%A1%D7%99%D7%99%D7%A2%D7%99%D7%9D-
-2. https://giveback.co.il/category/Iron%20swords
-
 # Missing/Kidnapped
 
 1. https://ironswords.org.il/
@@ -15,6 +8,14 @@
 
 1. https://www.wordsofiron.com/he
 1. https://www.remember710.com/
+
+# Donations
+
+1. https://safedonate.org.il/
+1. https://www.10bis.co.il/next/restaurants/menu/delivery/40885/%D7%9E%D7%97%D7%96%D7%A7%D7%99%D7%9D-%D7%95%D7%9E%D7%A1%D7%99%D7%99%D7%A2%D7%99%D7%9D-
+2. https://giveback.co.il/category/Iron%20swords
+
+
 
 # Index websites
 
